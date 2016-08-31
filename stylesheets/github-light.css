@@ -37,19 +37,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
-html, body {
-    margin: 0;
-    padding: 0;
-    background-color: #151515;
-}
 
-canvas {
-    display: block;
-    margin: auto;
 
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-}
+/*No idea what this does.*/
